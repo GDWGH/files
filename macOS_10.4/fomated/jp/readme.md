@@ -1,0 +1,1 @@
+image文件夹与 实装版的 image都是TrueType版的
